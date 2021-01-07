@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/lyh/Codes/catkin_overlay_ws/install/setup.sh
