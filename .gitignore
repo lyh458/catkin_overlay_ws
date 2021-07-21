@@ -1,3 +1,4 @@
 build/
-devel/
+devel/*
+!devel/_setup_util.py
 *.catkin_workspace
