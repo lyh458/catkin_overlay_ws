@@ -1,5 +1,7 @@
 Dedicated workspace for including all workspace environment variables, so as to solve the workspace overlaying problem.
 
+Note: This branch is for ros version below Melodic/python2.
+
 - [catkin配置多工作空间-workspace_overlaying](https://blog.csdn.net/dndxjj/article/details/90712809)
 
 - [Overlaying with catkin workspaces](http://wiki.ros.org/catkin/Tutorials/workspace_overlaying)
